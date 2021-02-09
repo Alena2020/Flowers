@@ -3,7 +3,7 @@
 
 ## Технологии:
 #### - HTML
-#### - CSS Flexbox & Grid
+#### - CSS 
 #### - Bootstrap
 #### - jQuery
 #### - Fancybox
