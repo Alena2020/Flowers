@@ -8,3 +8,5 @@
 #### - jQuery
 #### - Fancybox
 #### - Swiper Slider JS
+
+## Demo: https://alena2020.github.io/Flowers/
