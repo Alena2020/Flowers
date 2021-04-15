@@ -1,7 +1,6 @@
-# Flowers - yчебный проект Glo Academy 
-### Выполнила проект: Алёна
+# Flowers - Glo Academy project 
 
-## Технологии:
+##  Technologies:
 #### - HTML
 #### - CSS 
 #### - Bootstrap
@@ -10,3 +9,4 @@
 #### - Swiper Slider JS
 
 ## Demo: https://alena2020.github.io/Flowers/
+## 💐🌷🌹🌺🌸🌼🌻 
