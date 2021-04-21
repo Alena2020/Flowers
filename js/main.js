@@ -52,10 +52,10 @@ $(document).ready(function() {
     $("#review-1").on('click', function() {
 
         $.fancybox.open([{
-                src: '/img/flowers1.jpg',
+                src: 'img/flowers1.jpg',
                 opts: {
                     caption: '1',
-                    thumb: '/img/flowers1.jpg'
+                    thumb: 'img/flowers1.jpg'
                 }
             },
             {
