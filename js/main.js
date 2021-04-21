@@ -59,32 +59,32 @@ $(document).ready(function() {
                 }
             },
             {
-                src: '/img/flowers2.jpg',
+                src: 'img/flowers2.jpg',
                 opts: {
                     caption: '2',
-                    thumb: '/img/flowers2.jpg'
+                    thumb: 'img/flowers2.jpg'
                 }
             },
 
             {
-                src: '/img/flowers3.jpg',
+                src: 'img/flowers3.jpg',
                 opts: {
                     caption: '3',
-                    thumb: '/img/flowers3.jpg'
+                    thumb: 'img/flowers3.jpg'
                 }
             },
             {
-                src: '/img/flowers4.jpg',
+                src: 'img/flowers4.jpg',
                 opts: {
                     caption: '4',
-                    thumb: '/img/flowers4.jpg'
+                    thumb: 'img/flowers4.jpg'
                 }
             },
             {
-                src: '/img/flowers5.png',
+                src: 'img/flowers5.png',
                 opts: {
                     caption: '5',
-                    thumb: '/img/flowers5.png'
+                    thumb: 'img/flowers5.png'
                 }
             }
 
